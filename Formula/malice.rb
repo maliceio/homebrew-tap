@@ -1,9 +1,9 @@
 class Malice < Formula
-  desc "VirusTotal Wanna Be - Now with 100% more Hipster"
-  homepage "https://malice.io"
-  url "https://github.com/maliceio/malice/releases/download/v0.3.0/malice_macOS_amd64.tar.gz"
-  version "0.3.0"
-  sha256 "180c23cf34c86b06ebfa622db4127f60ca8b100e6fba94659d930c1d0cd53c0d"
+  desc ""
+  homepage ""
+  url "https://github.com/maliceio/malice/releases/download/v0.3.1/malice_macOS_amd64.tar.gz"
+  version "0.3.1"
+  sha256 "10ab4dfc1e62a4d95811b4292d847c373db1b6eaff948646e59dcf1afc79c67c"
 
   def install
     bin.install "malice"
