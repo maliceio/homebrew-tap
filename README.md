@@ -5,4 +5,4 @@ Homebrew formula for the Malice Engine
 
 To install the latest release:
 
-    $ brew install maliceio/homebrew-tap/malice
+    $ brew install maliceio/tap/malice
