@@ -3,7 +3,7 @@ class Malice < Formula
   homepage "https://malice.io"
   url "https://github.com/maliceio/malice/releases/download/v0.3.0/malice_macOS_amd64.tar.gz"
   version "0.3.0"
-  sha256 "d8c541613ceff080fce9930bbd65489d938bab3a20d73ae487749edb5f892890"
+  sha256 "180c23cf34c86b06ebfa622db4127f60ca8b100e6fba94659d930c1d0cd53c0d"
 
   def install
     bin.install "malice"
