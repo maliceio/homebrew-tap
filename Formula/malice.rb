@@ -1,9 +1,9 @@
 class Malice < Formula
   desc ""
   homepage ""
-  url "https://github.com/maliceio/malice/releases/download/v0.3.0/malice_macOS_amd64.tar.gz"
-  version "0.3.0"
-  sha256 "158369feb9528196b1e0d7e1195cd47b71a17eb8e987cd17accad585b0fb0420"
+  url "https://github.com/maliceio/malice/releases/download/v0.3.1/malice_macOS_amd64.tar.gz"
+  version "0.3.1"
+  sha256 "644fca669d2301fe42df793ef7baf0e1d5c880f36891561d8437f3cc333d76d6"
 
   def install
     bin.install "malice"
