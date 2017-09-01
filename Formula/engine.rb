@@ -1,9 +1,9 @@
 class Engine < Formula
   desc "Open Source Malware Analysis Framework."
   homepage "https://github.com/maliceio/engine"
-  url "https://github.com/maliceio/engine/releases/download/0.3.14/engine_0.3.14_macOS_amd64.tar.gz"
-  version "0.3.14"
-  sha256 "4d924fd5944b3784f5258d820168cfe5dac23861c6d8fce91ef38cb413302e1c"
+  url "https://github.com/maliceio/engine/releases/download/0.3.15/engine_0.3.15_macOS_amd64.tar.gz"
+  version "0.3.15"
+  sha256 "fb052d47ac38f7a9389c4e630428f5c77361583fc18c3c598fd0e6fb346c1b59"
 
   def install
     bin.install "engine"
