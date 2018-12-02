@@ -1,9 +1,9 @@
 class Malice < Formula
   desc "Open Source Malware Analysis Framework."
   homepage "https://github.com/maliceio/malice"
-  url "https://github.com/maliceio/malice/releases/download/v0.3.27/malice_0.3.27_macOS_amd64.tar.gz"
-  version "0.3.27"
-  sha256 "d6cd67f277e72406354918237795bf28516e3eb3161091150ae63b41bf8197e9"
+  url "https://github.com/maliceio/malice/releases/download/v0.3.28/malice_0.3.28_macOS_amd64.tar.gz"
+  version "0.3.28"
+  sha256 "68930e8676eb75415c0d8752f64295fbf6bef481d69afea584cd987726cb8496"
 
   def install
     bin.install "malice"
